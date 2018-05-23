@@ -1,4 +1,4 @@
-package com.example.jeffg.newdemoapp;
+package com.example.jeffg.currencyconverter;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
