@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.jeffg.newdemoapp">
+    package="com.example.jeffg.currencyconverter">
 
     <application
         android:allowBackup="true"
