@@ -5,4 +5,4 @@
 
 ## Simply type in the currency in US Dollars into the text field and it responds a Toast message with the equivalent. 
 
-<img src= "https://github.com/JeffGoodrich9791/Currency-Converter/blob/master/output_currencyConvert.jpg" />
+<img src= "https://github.com/JeffGoodrich9791/Currency-Converter/blob/master/output_currencyConvert.png" />
